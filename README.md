@@ -1,2 +1,7 @@
 # 백준 풀이
-[단기간 성장](https://www.acmicpc.net/workbook/view/4349) 푸는 중
+001. [평범한 배낭](https://www.acmicpc.net/problem/12865)
+002. [가운데를 말해요](https://www.acmicpc.net/problem/1655)
+003. [수찾기](https://www.acmicpc.net/problem/1920)
+
+### Unsolved
+* [백조의 호수](https://www.acmicpc.net/problem/3197)
