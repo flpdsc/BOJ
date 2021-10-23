@@ -3,6 +3,8 @@
 002. [가운데를 말해요](https://www.acmicpc.net/problem/1655)
 003. [수찾기](https://www.acmicpc.net/problem/1920)
 004. [수 정렬하기](https://www.acmicpc.net/problem/2750)
+005. [수 정렬하기2](https://www.acmicpc.net/problem/2750)
+006. [수 정렬하기3](https://www.acmicpc.net/problem/10989)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
