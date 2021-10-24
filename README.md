@@ -6,6 +6,7 @@
 005. [수 정렬하기2](https://www.acmicpc.net/problem/2750)
 006. [수 정렬하기3](https://www.acmicpc.net/problem/10989)
 007. [숫자 카드](https://www.acmicpc.net/problem/10815)
+008. [스택](https://www.acmicpc.net/problem/10828)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
