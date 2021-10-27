@@ -8,6 +8,7 @@
 007. [숫자 카드](https://www.acmicpc.net/problem/10815)
 008. [스택](https://www.acmicpc.net/problem/10828)
 009. [큐](https://www.acmicpc.net/problem/10845)
+010. [덱](https://www.acmicpc.net/problem/10866)
 
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
