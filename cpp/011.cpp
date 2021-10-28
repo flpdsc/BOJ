@@ -1,40 +1,45 @@
 //에디터 https://www.acmicpc.net/problem/1406
 #include <iostream>
+#include <list>
 using namespace std;
-char text[600001];
 int main()
 {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL), cout.tie(NULL);
-    int cur=0, m, byte;
-    cin >> text;
-    while(1){
-        if(text[cur]=='\0') break;
-        cur++;
+    
+    string str;
+    list<char> text;
+    cin >> str;
+    for(int i=0; i<str.size(); ++i){
+        text.push_back(str.at(i));
     }
-    byte=cur;
+
+    int m;
+    list<char>::iterator cur = text.end();
     cin >> m;
+
     for(int i=0; i<m; ++i){
         char cmd;
         cin >> cmd;
         if(cmd=='L'){
-            if(cur>0) cur--;
+            if(cur!=text.begin()) cur--;
         }
-        if(cmd=='D'){
-            if(cur<byte) cur++;
+        else if(cmd=='D'){
+            if(cur!=text.end()) cur++;
         }
-        if(cmd=='B' && cur>0){
-            for(int i=cur; i<=byte; ++i) text[i-1] = text[i];
-            text[--byte] = '\0';
-            cur--;
+        else if(cmd=='B' && cur!=text.begin()){
+            cur = text.erase(--cur);
         }
         if(cmd=='P'){
             char p;
             cin >> p;
-            for(int i=byte; i>cur; --i) text[i] = text[i-1];
-            text[cur++] = p;
-            byte++;
+            text.insert(cur,p);
         }
     }
-    cout << text << endl;
+
+    for(list<char>::iterator it=text.begin(); it!=text.end(); ++it){
+        cout << * it;
+    }
+    cout << endl;
+    return 0;
 }
