@@ -9,8 +9,8 @@
 008. [스택](https://www.acmicpc.net/problem/10828)
 009. [큐](https://www.acmicpc.net/problem/10845)
 010. [덱](https://www.acmicpc.net/problem/10866)
-11. [에디터](https://www.acmicpc.net/problem/1406)
-
+011. [에디터](https://www.acmicpc.net/problem/1406)
+012. [보물](https://www.acmicpc.net/problem/1026)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
