@@ -16,6 +16,7 @@
 015. [좌표 정렬하기2](https://www.acmicpc.net/problem/11651)
 016. [중복 빼고 정렬하기](https://www.acmicpc.net/problem/10867)
 017. [숫자 카드2](https://www.acmicpc.net/problem/10816)
+018. [괄호](https://www.acmicpc.net/problem/9012)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
