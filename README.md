@@ -18,6 +18,7 @@
 017. [숫자 카드2](https://www.acmicpc.net/problem/10816)
 018. [괄호](https://www.acmicpc.net/problem/9012)
 019. [스택 수열](https://www.acmicpc.net/problem/1874)
+020. [요세푸스 문제](https://www.acmicpc.net/problem/1158)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
