@@ -1,6 +1,6 @@
 //AC https://www.acmicpc.net/problem/5430
 #include <iostream>
-#include <vector>
+#include <deque>
 #include <algorithm>
 using namespace std;
 int main()
@@ -14,12 +14,12 @@ int main()
     for(int i=0; i<t; ++i){
 
         string p, input;
-        int n, tmp=0, error=0;
-        vector<int> arr;
+        int n, tmp=0;
+        deque<int> dq;
 
         cin >> p >> n >> input;
 
-        // arr에 저장
+        // dq에 저장
         for(int j=0; j<input.size(); ++j){
             if(input[j]>='0' && input[j]<='9'){
                 if(tmp!=0) tmp *= 10;
@@ -27,32 +27,50 @@ int main()
             }
             else if(input[j]==',' || input[j]==']'){
                 if(tmp!=0){
-                    arr.push_back(tmp);
+                    dq.push_back(tmp);
                     tmp = 0;
                 }
             }
         }
 
         // 함수 수행
+        bool flag = true; // 정방향(t), 역방향(f)
+        bool error = false;
         for(int j=0; j<p.size(); ++j){
-            if(p[j]=='R') reverse(arr.begin(), arr.end());
+            if(p[j]=='R'){
+                flag = !flag; // 방향변경
+            }
             else if(p[j]=='D'){
-                if(arr.size()==0){ // 에러
-                    error = 1;
+                if(dq.empty()){ // 에러
+                    error = true;
                     break;
                 }
-                else arr.erase(arr.begin());
+                else{
+                    if(flag) dq.pop_front();
+                    else dq.pop_back();
+                }
             }
         }
 
-        //출력
-        if(error==1) cout << "error" << endl;
+        // 출력
+        if(error) cout << "error" << endl;
         else{
             cout << "[";
-            while(!arr.empty()){
-                cout << arr[0];
-                arr.erase(arr.begin());
-                if(!arr.empty()) cout << ",";
+            // 정방향 출력
+            if(flag){
+                while(!dq.empty()){
+                    cout << dq.front();
+                    dq.pop_front();
+                    if(!dq.empty()) cout << ",";
+                }
+            }
+            // 역방향 출력
+            else{
+                while(!dq.empty()){
+                    cout << dq.back();
+                    dq.pop_back();
+                    if(!dq.empty()) cout << ",";
+                }
             }
             cout << "]" << endl;
         }
