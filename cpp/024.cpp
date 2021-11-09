@@ -2,7 +2,7 @@
 #include <iostream>
 using namespace std;
 
-int n, s, arr[20], ch[20], sum=0, cnt=0;
+int n, s, arr[20], cnt=0;
 
 void DFS(int LVL, int SUM)
 {
@@ -20,7 +20,7 @@ int main()
     cin >> n >> s;
     for(int i=0; i<n; ++i) cin >> arr[i];
     DFS(0, 0);
-    if(s==0) cnt--;
+    if(s==0) cnt--; //공집합에 대한 cnt
     cout << cnt << endl;
     return 0;
 }
