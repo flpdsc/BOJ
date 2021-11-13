@@ -25,6 +25,7 @@
 024. [부분수열의 합](https://www.acmicpc.net/problem/1182) 211110
 025. [1,2,3 더하기](https://www.acmicpc.net/problem/9095) 211111
 026. [N-Queen](https://www.acmicpc.net/problem/9663) 211112
+027. [약수](https://www.acmicpc.net/problem/1037)
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
