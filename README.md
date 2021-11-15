@@ -27,6 +27,7 @@
 026. [N-Queen](https://www.acmicpc.net/problem/9663) 211112
 027. [약수](https://www.acmicpc.net/problem/1037) 211113
 028. [소수 찾기](https://www.acmicpc.net/problem/1978) 211114
+029. [소수 구하기](https://www.acmicpc.net/problem/1929) 211115
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
