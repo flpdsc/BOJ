@@ -30,7 +30,36 @@
 029. [소수 구하기](https://www.acmicpc.net/problem/1929) 211115
 030. [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) 211116
 031. [스타트와 링크](https://www.acmicpc.net/problem/14889) 211117
-032. [치킨 배달](https://www.acmicpc.net/problem/15686)
+032. [치킨 배달](https://www.acmicpc.net/problem/15686) 211118
+033. [좋은 수열](https://www.acmicpc.net/problem/2661) 211119
+034. [스도쿠](https://www.acmicpc.net/problem/2580) 211120
+035. [가로수](https://www.acmicpc.net/problem/2485) 211121
+036. [소수의 연속합](https://www.acmicpc.net/problem/1644) 211122
+037. [골드바흐의 추측](https://www.acmicpc.net/problem/6588) 211123
+038. [환상의 짝궁](https://www.acmicpc.net/problem/15711) 211124
+039. [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) 211125
+040. [DFS와 BFS](https://www.acmicpc.net/problem/1260) 211126
+041. [단지번호붙이기](https://www.acmicpc.net/problem/2667) 211127
+042. [숨바꼭질](https://www.acmicpc.net/problem/) 211128
+043. [미로탐색](https://www.acmicpc.net/problem/) 211129
+044. [바이러스](https://www.acmicpc.net/problem/) 211130
+045. [피보나치 함수](https://www.acmicpc.net/problem/) 211201
+046. [1로 만들기](https://www.acmicpc.net/problem/) 211202
+047. [계단 오르기](https://www.acmicpc.net/problem/) 211203
+048. [정수 삼각형](https://www.acmicpc.net/problem/) 211204
+049. [RGB거리](https://www.acmicpc.net/problem/) 211205
+050. [벽 부수고 이동하기](https://www.acmicpc.net/problem/) 211206
+051. [토마토](https://www.acmicpc.net/problem/) 211207
+052. [토마토](https://www.acmicpc.net/problem/) 211208
+053. [텀 프로젝트](https://www.acmicpc.net/problem/) 211209
+054. [치즈](https://www.acmicpc.net/problem/) 211210
+055. [영역 구하기](https://www.acmicpc.net/problem/) 211211
+056. [2xn 타일링](https://www.acmicpc.net/problem/) 211212
+057. [2xn 타일링 2](https://www.acmicpc.net/problem/) 211213
+058. [연속합](https://www.acmicpc.net/problem/) 211214
+059. [동전 1](https://www.acmicpc.net/problem/) 211215
+060. [포도주 주식](https://www.acmicpc.net/problem/) 211216
+
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
 
