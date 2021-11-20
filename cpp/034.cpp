@@ -49,7 +49,7 @@ void DFS(int idx)
             if(check(x, y, i)){
                 sudoku[x][y] = i;
                 DFS(idx+1);
-                // sudoku[x][y] = 0; // 스도쿠 만족 하지 않으면 다시 빠져나옴
+                sudoku[x][y] = 0; // 스도쿠 만족 하지 않으면 다시 빠져나옴
             }
         }
     }
