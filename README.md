@@ -40,25 +40,25 @@
 039. [제곱ㄴㄴ수](https://www.acmicpc.net/problem/1016) 211125
 040. [DFS와 BFS](https://www.acmicpc.net/problem/1260) 211126
 041. [단지번호붙이기](https://www.acmicpc.net/problem/2667) 211127
-042. [숨바꼭질](https://www.acmicpc.net/problem/) 211128
-043. [미로탐색](https://www.acmicpc.net/problem/) 211129
-044. [바이러스](https://www.acmicpc.net/problem/) 211130
-045. [피보나치 함수](https://www.acmicpc.net/problem/) 211201
-046. [1로 만들기](https://www.acmicpc.net/problem/) 211202
-047. [계단 오르기](https://www.acmicpc.net/problem/) 211203
-048. [정수 삼각형](https://www.acmicpc.net/problem/) 211204
-049. [RGB거리](https://www.acmicpc.net/problem/) 211205
-050. [벽 부수고 이동하기](https://www.acmicpc.net/problem/) 211206
-051. [토마토](https://www.acmicpc.net/problem/) 211207
-052. [토마토](https://www.acmicpc.net/problem/) 211208
-053. [텀 프로젝트](https://www.acmicpc.net/problem/) 211209
-054. [치즈](https://www.acmicpc.net/problem/) 211210
-055. [영역 구하기](https://www.acmicpc.net/problem/) 211211
-056. [2xn 타일링](https://www.acmicpc.net/problem/) 211212
-057. [2xn 타일링 2](https://www.acmicpc.net/problem/) 211213
-058. [연속합](https://www.acmicpc.net/problem/) 211214
-059. [동전 1](https://www.acmicpc.net/problem/) 211215
-060. [포도주 주식](https://www.acmicpc.net/problem/) 211216
+042. [숨바꼭질](https://www.acmicpc.net/problem/1697) 211128
+043. [미로탐색](https://www.acmicpc.net/problem/2178) 211129
+044. [바이러스](https://www.acmicpc.net/problem/2606) 211130
+045. [피보나치 함수](https://www.acmicpc.net/problem/1003) 211201
+046. [1로 만들기](https://www.acmicpc.net/problem/1463) 211202
+047. [계단 오르기](https://www.acmicpc.net/problem/2579) 211203
+048. [정수 삼각형](https://www.acmicpc.net/problem/1932) 211204
+049. [RGB거리](https://www.acmicpc.net/problem/1149) 211205
+050. [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) 211206
+051. [토마토](https://www.acmicpc.net/problem/7576) 211207
+052. [토마토](https://www.acmicpc.net/problem/7569) 211208
+053. [텀 프로젝트](https://www.acmicpc.net/problem/9466) 211209
+054. [치즈](https://www.acmicpc.net/problem/2636) 211210
+055. [영역 구하기](https://www.acmicpc.net/problem/2583) 211211
+056. [2×n 타일링](https://www.acmicpc.net/problem/11726) 211212
+057. [2×n 타일링 2](https://www.acmicpc.net/problem/11727) 211213
+058. [연속합](https://www.acmicpc.net/problem/1912) 211214
+059. [동전 1](https://www.acmicpc.net/problem/2293) 211215
+060. [포도주 주식](https://www.acmicpc.net/problem/2156) 211216
 
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
