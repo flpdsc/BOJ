@@ -6,15 +6,14 @@ using namespace std;
 
 int GCD(int x, int y)
 {
-    if(x%y==0) return y;
-    else return 1;
-    GCD(y, x%y);
+    if(y==0) return x;
+	return GCD(y, x%y);
 }
 
 int main()
 {
     int n, d1, d2, res;
-    vector<int> tree, diff;
+    vector<int> tree;
     cin >> n;
 
     for(int i=0; i<n; ++i){
