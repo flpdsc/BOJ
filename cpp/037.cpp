@@ -31,6 +31,7 @@ int main()
     int n;
     findPrime(MAX);
     while(1){
+        bool flag = false;
         cin >> n;
         if(n==0) break;
         else{
@@ -39,10 +40,12 @@ int main()
                 int b = n-a;
                 if(b<0) break;
                 if(!not_prime[b]){
-                    cout << n << " = " << a << " + " << b << "\n";
+                    cout << n << " = " << a << " + " << b << '\n';
+                    flag = true;
                     break;
                 }
             }
+            if(!flag) cout << "Goldbach's conjecture is wrong.\n";
         }
     }
     return 0;
