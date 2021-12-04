@@ -6,7 +6,7 @@ int stepScore[301], maxScore[301]; //점수 MAX=10000
 
 int main()
 {
-    int step, total=0, pos=0; // 계단개수 MAX=300 
+    int step; // 계단개수 MAX=300 
     cin >> step;
     for(int i=1; i<=step; ++i) cin >> stepScore[i];
 
