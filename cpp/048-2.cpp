@@ -8,7 +8,7 @@ int findMax(int l, int p)
 {
     if(dp[l][p]>0) return dp[l][p]; 
     if(l==n) return tree[l][p];
-    else return max(findMax(l+1, p), findMax(l+1, p+1))+tree[l][p];
+    else return dp[l][p] = max(findMax(l+1, p), findMax(l+1, p+1))+tree[l][p];
 }
 
 int main()
