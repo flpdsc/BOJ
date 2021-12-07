@@ -11,7 +11,6 @@ queue<pair<int, int> > Q;
 
 int BFS()
 {
-    if(Q.empty()) return 0;
     while(!Q.empty()){
         int x = Q.front().first;
         int y = Q.front().second;
@@ -19,31 +18,29 @@ int BFS()
         for(int i=0; i<4; ++i){
             int xx = x+dx[i];
             int yy = y+dy[i];
-            if(box[xx][yy]==0 && day[xx][yy]==-1 && xx>=0 && yy>=0 && xx<m && yy<n){
+            if(box[xx][yy]==0 && xx>=0 && yy>=0 && xx<n && yy<m){
                 Q.push(make_pair(xx, yy));
-                day[xx][yy] = day[x][y]+1;
+                box[xx][yy] = box[x][y]+1;
             }
         }
     }
-    for(int i=0; i<m; ++i){
-        for(int j=0; j<n; ++j){
-            if(box[i][j]==0 && day[i][j]==-1) return -1;
-            res = max(res, day[i][j]);
+    for(int i=0; i<n; ++i){
+        for(int j=0; j<m; ++j){
+            res = max(res, box[i][j]);
+            if(box[i][j]==0) return -1;
         }
     }
-    return res;
+    return res-1;
 }
 
 int main()
 {
     cin >> m >> n;
-    for(int i=0; i<m; ++i){
-        for(int j=0; j<n; ++j){
+    for(int i=0; i<n; ++i){
+        for(int j=0; j<m; ++j){
             cin >> box[i][j];
-            day[i][j] = -1;
             if(box[i][j]==1){
                 Q.push(make_pair(i, j));
-                day[i][j] = 0;
             }
         }
     }
