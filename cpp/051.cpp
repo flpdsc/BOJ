@@ -5,7 +5,7 @@
 using namespace std;
 
 int m, n, res=0;
-int box[MAX][MAX], day[MAX][MAX];
+int box[MAX][MAX];
 int dx[4]={0, 1, 0, -1}, dy[4]={-1, 0, 1, 0};
 queue<pair<int, int> > Q;
 
