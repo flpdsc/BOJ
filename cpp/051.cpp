@@ -18,7 +18,7 @@ int BFS()
         for(int i=0; i<4; ++i){
             int xx = x+dx[i];
             int yy = y+dy[i];
-            if(box[xx][yy]==0 && xx>=0 && yy>=0 && xx<n && yy<m){
+            if(xx>=0 && yy>=0 && xx<n && yy<m && box[xx][yy]==0){
                 Q.push(make_pair(xx, yy));
                 box[xx][yy] = box[x][y]+1;
             }
