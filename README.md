@@ -58,7 +58,28 @@
 057. [2×n 타일링 2](https://www.acmicpc.net/problem/11727) 211213
 058. [연속합](https://www.acmicpc.net/problem/1912) 211214
 059. [동전 1](https://www.acmicpc.net/problem/2293) 211215
-060. [포도주 주식](https://www.acmicpc.net/problem/2156) 211216
+060. [포도주 시식](https://www.acmicpc.net/problem/2156) 211216
+061. [카드 구매하기](https://www.acmicpc.net/problem/11052) 211217
+062. [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) 211218
+063. [동전 0](https://www.acmicpc.net/problem/11047) 211219
+064. [회의실 배정](https://www.acmicpc.net/problem/1931) 211220
+065. [로프](https://www.acmicpc.net/problem/2217) 211221
+066. [부등호](https://www.acmicpc.net/problem/2529) 211222
+067. [나무 자르기](https://www.acmicpc.net/problem/2805) 211223
+068. [랜선 자르기](https://www.acmicpc.net/problem/1654) 211224
+069. [달팽이는 올라가고 싶다](https://www.acmicpc.net/problem/2869) 211225
+070. [예산](https://www.acmicpc.net/problem/2512) 211226
+071. [공유기 설치](https://www.acmicpc.net/problem/2110) 211227
+072. [최소 힙](https://www.acmicpc.net/problem/1927) 211228
+073. [최대 힙](https://www.acmicpc.net/problem/11279) 211229
+074. [절댓값 힙](https://www.acmicpc.net/problem/11286) 211230
+075. [카드 정렬하기](https://www.acmicpc.net/problem/1715) 211231
+076. [가운데를 말해요](https://www.acmicpc.net/problem/1655) 220101
+077. [보석 도둑](https://www.acmicpc.net/problem/1202) 220102
+078. [책 나눠주기](https://www.acmicpc.net/problem/9576) 220103
+079. [주유소](https://www.acmicpc.net/problem/13305) 220104
+080. [연료 채우기](https://www.acmicpc.net/problem/1826) 220105
+081. [숫자의 신](https://www.acmicpc.net/problem/1422) 220106
 
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
