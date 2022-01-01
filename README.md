@@ -74,12 +74,11 @@
 073. [최대 힙](https://www.acmicpc.net/problem/11279) 211229
 074. [절댓값 힙](https://www.acmicpc.net/problem/11286) 211230
 075. [카드 정렬하기](https://www.acmicpc.net/problem/1715) 211231
-076. [가운데를 말해요](https://www.acmicpc.net/problem/1655) 220101
-077. [보석 도둑](https://www.acmicpc.net/problem/1202) 220102
-078. [책 나눠주기](https://www.acmicpc.net/problem/9576) 220103
-079. [주유소](https://www.acmicpc.net/problem/13305) 220104
-080. [연료 채우기](https://www.acmicpc.net/problem/1826) 220105
-081. [숫자의 신](https://www.acmicpc.net/problem/1422) 220106
+076. [보석 도둑](https://www.acmicpc.net/problem/1202) 220101
+077. [책 나눠주기](https://www.acmicpc.net/problem/9576) 220102
+078. [주유소](https://www.acmicpc.net/problem/13305) 220103
+089. [연료 채우기](https://www.acmicpc.net/problem/1826) 220104
+090. [숫자의 신](https://www.acmicpc.net/problem/1422) 220105
 
 ### Unsolved
 * [백조의 호수](https://www.acmicpc.net/problem/3197)
