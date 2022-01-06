@@ -77,11 +77,9 @@
 076. [보석 도둑](https://www.acmicpc.net/problem/1202) 220101
 077. [책 나눠주기](https://www.acmicpc.net/problem/9576) 220102
 078. [주유소](https://www.acmicpc.net/problem/13305) 220103
-089. [연료 채우기](https://www.acmicpc.net/problem/1826) 220104
-090. [숫자의 신](https://www.acmicpc.net/problem/1422) 220105
-
-### Unsolved
-* [백조의 호수](https://www.acmicpc.net/problem/3197)
+079. [연료 채우기](https://www.acmicpc.net/problem/1826) 220104
+080. [숫자의 신](https://www.acmicpc.net/problem/1422) 220105
+081. [백조의 호수](https://www.acmicpc.net/problem/3197) 220106
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
