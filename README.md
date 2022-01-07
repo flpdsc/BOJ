@@ -80,6 +80,7 @@
 079. [연료 채우기](https://www.acmicpc.net/problem/1826) 220104
 080. [숫자의 신](https://www.acmicpc.net/problem/1422) 220105
 081. [백조의 호수](https://www.acmicpc.net/problem/3197) 220106
+082. [이항 계수 3](https://www.acmicpc.net/problem/11401) 220107
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
