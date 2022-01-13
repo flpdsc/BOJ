@@ -86,6 +86,7 @@
 085. [스타트링크](https://www.acmicpc.net/problem/5014) 220110
 086. [안전 영역](https://www.acmicpc.net/problem/2468) 220111
 087. [케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389) 220112
+088. [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205) 220113
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
