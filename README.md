@@ -90,6 +90,7 @@
 089. [A → B](https://www.acmicpc.net/problem/16953) 220114
 090. [효율적인 해킹](https://www.acmicpc.net/problem/1325) 220115
 091. [물통](https://www.acmicpc.net/problem/2251) 220116
+092. [그림](https://www.acmicpc.net/problem/1926) 220117
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
