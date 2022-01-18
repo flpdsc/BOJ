@@ -91,6 +91,7 @@
 090. [효율적인 해킹](https://www.acmicpc.net/problem/1325) 220115
 091. [물통](https://www.acmicpc.net/problem/2251) 220116
 092. [그림](https://www.acmicpc.net/problem/1926) 220117
+093. [음식물 피하기](https://www.acmicpc.net/problem/1743) 220118
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
