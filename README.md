@@ -93,6 +93,7 @@
 092. [그림](https://www.acmicpc.net/problem/1926) 220117
 093. [음식물 피하기](https://www.acmicpc.net/problem/1743) 220118
 094. [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) 220119
+095. [경쟁적 전염](https://www.acmicpc.net/problem/18405) 220120
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
