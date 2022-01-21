@@ -1,6 +1,5 @@
-//데스 나이트 https://www.acmicpc.net/problem/16948)
+//데스 나이트 https://www.acmicpc.net/problem/16948
 #include <iostream>
-#include <algorithm>
 #include <queue>
 using namespace std;
 
@@ -11,7 +10,8 @@ int dc[6] = {-1, 1, -2, 2, -1, 1};
 int board[200][200];
 
 void BFS()
-{   bool flag = false;
+{
+    bool flag = false;
     while(!q.empty()){
         int r = q.front().first;
         int c = q.front().second;
@@ -20,7 +20,7 @@ void BFS()
         for(int i=0; i<6; ++i){
             int rr = r+dr[i];
             int cc = c+dc[i];
-            if(rr>=0 && cc>=0 && rr<n && cc<n && board[rr][cc]==-1){
+            if(rr>=0 && cc>=0 && rr<n && cc<n && board[rr][cc]==0){
                 board[rr][cc] = board[r][c]+1;
                 if(rr==a && cc==b){
                     flag = true;
@@ -36,11 +36,10 @@ void BFS()
 int main()
 {
     cin >> n >> a >> b;
-    fill(&board[0][0], &board[n-1][n-1], -1);
-    board[a][b] = 0;
+    board[a][b] = 1;
     q.push(make_pair(a, b));
     cin >> a >> b;
     BFS();
-    cout << board[a][b] << '\n';   
+    cout << board[a][b]-1 << '\n';   
     return 0;
 }
