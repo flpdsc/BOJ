@@ -23,18 +23,17 @@ int main()
         pair<int, int> cur = q.front();
         int p = map[cur.first][cur.second];
         q.pop();
-        if(cur.first==n-1 && cur.second==n-1) break;
-        else{
-            for(int i=0; i<2; ++i){
-                int xx = cur.second+dx[i]*p;
-                int yy = cur.first+dy[i]*p;
-                if(xx>=0 && yy>=0 && xx<n && yy<n && !visited[yy][xx]){
-                    q.push(make_pair(xx, yy));
-                    visited[yy][xx] = true;
-                }
+        if(p==-1) break;
+        for(int i=0; i<2; ++i){
+            int xx = cur.second+dx[i]*p;
+            int yy = cur.first+dy[i]*p;
+            if(xx<n && yy<n && !visited[yy][xx]){
+                q.push(make_pair(yy, xx));
+                visited[yy][xx] = true;
             }
         }
     }
+    
     if(visited[n-1][n-1]) cout << "HaruHaru\n";
     else cout << "Hing\n";
     return 0;
