@@ -95,6 +95,7 @@
 094. [뱀과 사다리 게임](https://www.acmicpc.net/problem/16928) 220119
 095. [경쟁적 전염](https://www.acmicpc.net/problem/18405) 220120
 096. [데스 나이트](https://www.acmicpc.net/problem/16948) 220121
+097. [점프왕 쩰리(Small)](https://www.acmicpc.net/problem/16173) 220122
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
