@@ -100,4 +100,4 @@
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
 * [DFS+BFS 필수 문제](https://www.acmicpc.net/workbook/view/1983)
-* [DFS+BFS 실버](https://www.acmicpc.net/problemset?sort=solvedac_desc&tier=6%2C7%2C8%2C9%2C10&algo=127%2C126&algo_if=or)
+* [DFS+BFS 실버](https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz,xn&tier=6,7,8,9,10&algo=127,126&algo_if=or)
