@@ -3,8 +3,8 @@
 #include <queue>
 using namespace std;
 
-int map[3][3];
-bool visited[3][3];
+int map[64][64];
+bool visited[64][64];
 int dx[2] = {1, 0}, dy[2]={0, 1};
 
 int main()
