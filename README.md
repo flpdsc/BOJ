@@ -97,6 +97,7 @@
 096. [데스 나이트](https://www.acmicpc.net/problem/16948) 220121
 097. [점프왕 쩰리](https://www.acmicpc.net/problem/16174) 220122
 098. [바닥 장식](https://www.acmicpc.net/problem/1388) 220123
+099. [태권왕](https://www.acmicpc.net/problem/14562) 220124
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
