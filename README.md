@@ -98,6 +98,7 @@
 097. [점프왕 쩰리](https://www.acmicpc.net/problem/16174) 220122
 098. [바닥 장식](https://www.acmicpc.net/problem/1388) 220123
 099. [태권왕](https://www.acmicpc.net/problem/14562) 220124
+100. [유기농 배추](https://www.acmicpc.net/problem/1012) 220125
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
