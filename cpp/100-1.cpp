@@ -14,7 +14,6 @@ int BFS()
     int cnt=0;
     while(!cbg.empty())
     {
-        bool flag = false;
         if(map[cbg.front().first][cbg.front().second]!=0)
         {
             q.push(make_pair(cbg.front().first, cbg.front().second));
@@ -24,7 +23,6 @@ int BFS()
         cbg.pop();
         while(!q.empty())
         {
-            flag = true;
             pair<int, int> cur;
             cur = q.front();
             q.pop();
