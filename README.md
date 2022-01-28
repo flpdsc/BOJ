@@ -101,6 +101,7 @@
 100. [유기농 배추](https://www.acmicpc.net/problem/1012) 220125
 101. [다리 놓기](https://www.acmicpc.net/problem/1010) 220126
 102. [돌 게임](https://www.acmicpc.net/problem/9655) 220127
+103. [이친수](https://www.acmicpc.net/problem/2193) 220128
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
