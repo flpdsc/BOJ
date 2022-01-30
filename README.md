@@ -103,6 +103,7 @@
 102. [돌 게임](https://www.acmicpc.net/problem/9655) 220127
 103. [이친수](https://www.acmicpc.net/problem/2193) 220128
 104. [퇴사](https://www.acmicpc.net/problem/14501) 220129
+105. [01타일](https://www.acmicpc.net/problem/1904) 220130
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
