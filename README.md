@@ -105,6 +105,7 @@
 104. [퇴사](https://www.acmicpc.net/problem/14501) 220129
 105. [01타일](https://www.acmicpc.net/problem/1904) 220130
 106. [제곱수의 합](https://www.acmicpc.net/problem/1699) 220131
+107. [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) 220201
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
