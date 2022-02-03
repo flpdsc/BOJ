@@ -107,6 +107,7 @@
 106. [제곱수의 합](https://www.acmicpc.net/problem/1699) 220131
 107. [가장 큰 증가 부분 수열](https://www.acmicpc.net/problem/11055) 220201
 108. [가장 긴 감소하는 부분 수열](https://www.acmicpc.net/problem/11722) 220202
+109. [쉬운 계단 수](https://www.acmicpc.net/problem/10844) 220203
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
