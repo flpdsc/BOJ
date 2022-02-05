@@ -110,6 +110,8 @@
 109. [쉬운 계단 수](https://www.acmicpc.net/problem/10844) 220203
 110. [스티커](https://www.acmicpc.net/problem/9465) 220204
 111. [오르막 수](https://www.acmicpc.net/problem/11057) 220205
+112. [이항 계수 2](https://www.acmicpc.net/problem/11051) 220206
+
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
