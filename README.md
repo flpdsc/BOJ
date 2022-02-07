@@ -112,6 +112,7 @@
 111. [오르막 수](https://www.acmicpc.net/problem/11057) 220205
 112. [이항 계수 2](https://www.acmicpc.net/problem/11051) 220206
 113. [이동하기](https://www.acmicpc.net/problem/11048) 220207
+114. [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) 220208
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
