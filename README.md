@@ -113,6 +113,10 @@
 112. [이항 계수 2](https://www.acmicpc.net/problem/11051) 220206
 113. [이동하기](https://www.acmicpc.net/problem/11048) 220207
 114. [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) 220208
+115. [파도반 수열](https://www.acmicpc.net/problem/9461) 220209
+116. [섬의 개수](https://www.acmicpc.net/problem/4963) 220210
+117. [동전 2](https://www.acmicpc.net/problem/2294) 220211
+118. [연결 요소의 개수](https://www.acmicpc.net/problem/11724) 220212
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
