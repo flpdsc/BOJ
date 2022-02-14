@@ -119,6 +119,7 @@
 118. [연결 요소의 개수](https://www.acmicpc.net/problem/11724) 220212
 119. [동물원](https://www.acmicpc.net/problem/1309) 220213
 120. [점프 점프](https://www.acmicpc.net/problem/11060) 220214
+121. [나이트의 이동](https://www.acmicpc.net/problem/7562) 220215
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
