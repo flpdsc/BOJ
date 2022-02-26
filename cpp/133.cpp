@@ -1,5 +1,6 @@
 //거스름돈 https://www.acmicpc.net/problem/14916
 #include <iostream>
+#include <cstring>
 #define MAX 2147000000
 using namespace std;
 
