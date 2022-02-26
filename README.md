@@ -131,6 +131,7 @@
 130. [숫자판 점프](https://www.acmicpc.net/problem/2210) 220224
 131. [점프](https://www.acmicpc.net/problem/1890) 220225
 132. [특정 거리의 도시 찾기](https://www.acmicpc.net/problem/18352) 220226
+133. [거스름돈](https://www.acmicpc.net/problem/14916) 220227
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
