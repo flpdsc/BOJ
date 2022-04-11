@@ -174,6 +174,7 @@
 173. [듣보잡](https://www.acmicpc.net/problem/1764) 220408
 174. [통계학](https://www.acmicpc.net/problem/2108) 220409
 175. [회전하는 큐](https://www.acmicpc.net/problem/1021) 220410
+176. [막대기](https://www.acmicpc.net/problem/1094) 220411
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
