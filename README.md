@@ -221,7 +221,7 @@
 220. [최단경로](https://www.acmicpc.net/problem/1753) 220525
 221. [뒤집기](https://www.acmicpc.net/problem/1439) 220526
 222. [LCS](https://www.acmicpc.net/problem/9251) 220527
-223. [집합의 표현](https://www.acmicpc.net/problem/1717) 220528
+223. [점수 계산](https://www.acmicpc.net/problem/2822) 220528
 224. [인구 이동](https://www.acmicpc.net/problem/16234) 220529
 225. [암호 만들기](https://www.acmicpc.net/problem/1759) 220530
 226. [용액](https://www.acmicpc.net/problem/2467) 220601
@@ -249,7 +249,6 @@
 248. [상근이의 여행](https://www.acmicpc.net/problem/9372) 220623
 249. [분수 합](https://www.acmicpc.net/problem/1735) 220624
 250. [기타줄](https://www.acmicpc.net/problem/1049) 220625
-251. [점수 계산](https://www.acmicpc.net/problem/2822) 220626
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
