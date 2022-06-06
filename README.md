@@ -230,7 +230,7 @@
 229. [합분배](https://www.acmicpc.net/problem/2225) 220603
 230. [뱀](https://www.acmicpc.net/problem/3190) 220604
 231. [괄호의 값](https://www.acmicpc.net/problem/2504) 220605
-232. [N과 M (7)](https://www.acmicpc.net/problem/15656) 220606
+232. [단어 수학](https://www.acmicpc.net/problem/1339) 220606
 233. [링](https://www.acmicpc.net/problem/3036) 220607
 234. [N과 M (9)](https://www.acmicpc.net/problem/15663) 220608
 235. [배열 합치기](https://www.acmicpc.net/problem/11728) 220609
@@ -248,7 +248,6 @@
 247. [암호 만들기](https://www.acmicpc.net/problem/1759) 220621
 248. [용액](https://www.acmicpc.net/problem/2467) 220622
 249. [연구소](https://www.acmicpc.net/problem/14502) 220623
-250. [단어 수학](https://www.acmicpc.net/problem/1339) 220624
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
