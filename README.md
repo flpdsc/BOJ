@@ -237,7 +237,7 @@
 236. [토너먼트](https://www.acmicpc.net/problem/1057) 220610
 237. [수 이어 쓰기 1](https://www.acmicpc.net/problem/1748) 220611
 238. [순열 사이클](https://www.acmicpc.net/problem/10451) 220612
-239. [뒤집기](https://www.acmicpc.net/problem/1439) 220613
+239. [연구소](https://www.acmicpc.net/problem/14502) 220613
 240. [문자열](https://www.acmicpc.net/problem/1120) 220614
 241. [키로거](https://www.acmicpc.net/problem/5397) 220615
 242. [다음 순열](https://www.acmicpc.net/problem/10972) 220616
@@ -247,7 +247,6 @@
 246. [N과 M (12)](https://www.acmicpc.net/problem/15666) 220620
 247. [암호 만들기](https://www.acmicpc.net/problem/1759) 220621
 248. [용액](https://www.acmicpc.net/problem/2467) 220622
-249. [연구소](https://www.acmicpc.net/problem/14502) 220623
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
