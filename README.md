@@ -243,7 +243,7 @@
 242. [다음 순열](https://www.acmicpc.net/problem/10972) 220616
 243. [단어 뒤집기 2](https://www.acmicpc.net/problem/17413) 220617
 244. [사탕 게임](https://www.acmicpc.net/problem/3085) 220618
-245. [캠핑](https://www.acmicpc.net/problem/4796) 220619
+245. [설탕 배달](https://www.acmicpc.net/problem/2839) 220619
 246. [N과 M (12)](https://www.acmicpc.net/problem/15666) 220620
 247. [암호 만들기](https://www.acmicpc.net/problem/1759) 220621
 248. [용액](https://www.acmicpc.net/problem/2467) 220622
