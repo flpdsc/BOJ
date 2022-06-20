@@ -245,8 +245,9 @@
 244. [사탕 게임](https://www.acmicpc.net/problem/3085) 220618
 245. [설탕 배달](https://www.acmicpc.net/problem/2839) 220619
 246. [N과 M (12)](https://www.acmicpc.net/problem/15666) 220620
-247. [암호 만들기](https://www.acmicpc.net/problem/1759) 220621
+247. [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) 220621
 248. [용액](https://www.acmicpc.net/problem/2467) 220622
+249. [암호 만들기](https://www.acmicpc.net/problem/1759) 220623
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
