@@ -248,6 +248,24 @@
 247. [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) 220621
 248. [용액](https://www.acmicpc.net/problem/2467) 220622
 249. [암호 만들기](https://www.acmicpc.net/problem/1759) 220623
+250. [N과 M (10)](https://www.acmicpc.net/problem/15664) 220624
+251. [회사에 있는 사람](https://www.acmicpc.net/problem/7785) 220625
+252. [문서 검색](https://www.acmicpc.net/problem/1543) 220626
+253. [수열](https://www.acmicpc.net/problem/2559) 220627
+254. [비밀번호 찾기](https://www.acmicpc.net/problem/17219) 220628
+255. [숫자 정사각형](https://www.acmicpc.net/problem/1051) 220629
+256. [돌 게임 2](https://www.acmicpc.net/problem/9656) 220630
+257. [문자열 집합](https://www.acmicpc.net/problem/14425) 220701
+258. [후위 표기식2](https://www.acmicpc.net/problem/1935) 220702
+259. [베스트셀러](https://www.acmicpc.net/problem/1302) 220703
+260. [행렬 곱셈](https://www.acmicpc.net/problem/2740) 220704
+261. [두 수의 합](https://www.acmicpc.net/problem/3273) 220705
+262. [N번째 큰 수](https://www.acmicpc.net/problem/2693) 220706
+263. [카드1](https://www.acmicpc.net/problem/2161) 220707
+264. [좋은 단어](https://www.acmicpc.net/problem/3986) 220708
+265. [BABBA](https://www.acmicpc.net/problem/9625) 220709
+266. [올림픽](https://www.acmicpc.net/problem/8979) 220710
+267. [빙고](https://www.acmicpc.net/problem/2578) 220711
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
