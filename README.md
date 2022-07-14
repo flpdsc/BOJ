@@ -268,6 +268,7 @@
 267. [빙고](https://www.acmicpc.net/problem/2578) 220711
 268. [수 정렬하기 4](https://www.acmicpc.net/problem/11931) 220712
 269. [마인크래프트](https://www.acmicpc.net/problem/18111) 220713
+270. [N과 M (11)](https://www.acmicpc.net/problem/15665) 220714
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
