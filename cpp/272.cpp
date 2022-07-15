@@ -1,6 +1,7 @@
 //수리공 항승 https://www.acmicpc.net/problem/1449
 #include <iostream>
 #include <vector>
+#include <algorithm>
 using namespace std;
 int main()
 {
