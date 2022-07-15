@@ -270,6 +270,7 @@
 269. [마인크래프트](https://www.acmicpc.net/problem/18111) 220713
 270. [N과 M (11)](https://www.acmicpc.net/problem/15665) 220714
 271. [이전 순열](https://www.acmicpc.net/problem/10973) 220715
+272. [수리공 항승](https://www.acmicpc.net/problem/1449) 220716
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
