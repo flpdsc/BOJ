@@ -271,6 +271,8 @@
 270. [N과 M (11)](https://www.acmicpc.net/problem/15665) 220714
 271. [이전 순열](https://www.acmicpc.net/problem/10973) 220715
 272. [수리공 항승](https://www.acmicpc.net/problem/1449) 220716
+273. [스위치 켜 끄기](https://www.acmicpc.net/problem/1244) 220717
+274. [대칭 차집합](https://www.acmicpc.net/problem/1269) 220718
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
