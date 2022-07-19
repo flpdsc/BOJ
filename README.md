@@ -273,6 +273,7 @@
 272. [수리공 항승](https://www.acmicpc.net/problem/1449) 220716
 273. [스위치 켜 끄기](https://www.acmicpc.net/problem/1244) 220717
 274. [대칭 차집합](https://www.acmicpc.net/problem/1269) 220718
+275. [숫자 야구](https://www.acmicpc.net/problem/2503) 220719
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
