@@ -276,6 +276,8 @@
 275. [숫자 야구](https://www.acmicpc.net/problem/2503) 220719
 276. [1로 만들기 2](https://www.acmicpc.net/problem/12852) 220720
 277. [행렬](https://www.acmicpc.net/problem/1080) 220721
+278. [결혼식](https://www.acmicpc.net/problem/5567) 220722
+279. [반복수열](https://www.acmicpc.net/problem/2331) 220723
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
@@ -283,4 +285,4 @@
 * [DFS+BFS 필수 문제](https://www.acmicpc.net/workbook/view/1983)
 * [DFS+BFS 실버](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&algo=127%2C126&algo_if=or)
 * [DP 실버](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&algo=25&algo_if=and)
-* [실버탈출](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&page=1)
+* [실버탈출](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&submit=us&tier=6%2C7%2C8%2C9%2C10)
