@@ -278,6 +278,7 @@
 277. [행렬](https://www.acmicpc.net/problem/1080) 220721
 278. [결혼식](https://www.acmicpc.net/problem/5567) 220722
 279. [반복수열](https://www.acmicpc.net/problem/2331) 220723
+280. [시리얼 번호](https://www.acmicpc.net/problem/1431) 220724
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
