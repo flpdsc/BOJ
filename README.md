@@ -280,6 +280,7 @@
 279. [반복수열](https://www.acmicpc.net/problem/2331) 220723
 280. [시리얼 번호](https://www.acmicpc.net/problem/1431) 220724
 281. [병든 나이트](https://www.acmicpc.net/problem/1783) 220725
+282. [참외밭](https://www.acmicpc.net/problem/2477) 220726
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
