@@ -282,6 +282,7 @@
 281. [병든 나이트](https://www.acmicpc.net/problem/1783) 220725
 282. [참외밭](https://www.acmicpc.net/problem/2477) 220726
 283. [게임을 만든 동준이](https://www.acmicpc.net/problem/2847) 220727
+284. [최대공약수](https://www.acmicpc.net/problem/1850) 220728
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
