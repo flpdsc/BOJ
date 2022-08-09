@@ -294,6 +294,7 @@
 293. [달팽이](https://www.acmicpc.net/problem/1913) 220806
 294. [DNA](https://www.acmicpc.net/problem/1969) 220807
 295. [타일 장식물](https://www.acmicpc.net/problem/13301) 220808
+296. [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) 220809
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
