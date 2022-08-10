@@ -295,6 +295,7 @@
 294. [DNA](https://www.acmicpc.net/problem/1969) 220807
 295. [타일 장식물](https://www.acmicpc.net/problem/13301) 220808
 296. [풍선 터뜨리기](https://www.acmicpc.net/problem/2346) 220809
+297. [수열](https://www.acmicpc.net/problem/2491) 220810
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
