@@ -304,8 +304,8 @@
 303. [이장님 초대](https://www.acmicpc.net/problem/9237) 220816
 304. [성적 통계](https://www.acmicpc.net/problem/5800) 220817
 305. [종이자르기](https://www.acmicpc.net/problem/2628) 220818
-
-
+306. [UCPC는 무엇의 약자일까?](https://www.acmicpc.net/problem/15904) 220819
+307. [먹을 것인가 먹힐 것인가](https://www.acmicpc.net/problem/7795) 220820
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
