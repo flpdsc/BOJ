@@ -1,4 +1,5 @@
 //먹을 것인가 먹힐 것인가 https://www.acmicpc.net/problem/7795
+//이분탐색
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -29,32 +30,17 @@ int main()
         sort(b.begin(), b.end());
 
         int res=0;
-        for(int i=0; i<m; ++i){
-            int l=0, r=n;
+        for(int i=0; i<a.size(); ++i){
+            int l=0, r=m;
             while(l+1<r){
                 int mid = (l+r)/2;
-                if(a[mid]>=b[i]) r = mid;
-                else l = mid;
+                if(a[i]>b[mid]) l = mid;
+                else r = mid;
             }
-            res += (n-r);
+            res += l;
+            if(a[i]>b[l]) ++res;
         }
-        // for(int i=0; i<a.size(); ++i){
-        //     int l=0, r=m;
-        //     while(l+1<r){
-        //         int mid = (l+r)/2;
-        //         if(a[i]>b[mid]) l = mid;
-        //         else r = mid;
-        //     }
-        //     res += l;
-        //     if(a[i]>b[l]) ++res;
-        // }
         cout << res << '\n';
     }
     return 0;
 }
-
-// 1   1
-// 1   3
-// 3   6
-// 7
-// 8
