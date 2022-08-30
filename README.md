@@ -315,7 +315,8 @@
 314. [사과 담기 게임](https://www.acmicpc.net/problem/2828) 220827
 315. [알바생 강호](https://www.acmicpc.net/problem/1758) 220828
 316. [색종이 - 2](https://www.acmicpc.net/problem/2567) 220829
-
+317. [OX퀴즈](https://www.acmicpc.net/problem/8958) 220830
+318. [오늘도 졌다](https://www.acmicpc.net/problem/14582) 220831
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
