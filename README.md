@@ -318,6 +318,9 @@
 317. [OX퀴즈](https://www.acmicpc.net/problem/8958) 220830
 318. [오늘도 졌다](https://www.acmicpc.net/problem/14582) 220831
 319. [영수증](https://www.acmicpc.net/problem/25304)
+320. [곱셈](https://www.acmicpc.net/problem/2588)
+321. [나머지](https://www.acmicpc.net/problem/3052)
+322. [3의 배수](https://www.acmicpc.net/problem/1769)
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
@@ -325,3 +328,4 @@
 * [DFS+BFS 실버](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&algo=127%2C126&algo_if=or)
 * [DP 실버](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&algo=25&algo_if=and)
 * [실버탈출](https://www.acmicpc.net/problemset?sort=ac_desc&solvedac_option=xz%2Cxn&submit=us&tier=6%2C7%2C8%2C9%2C10)
+* [문자열(실버)](https://www.acmicpc.net/problemset?sort=solvedac_asc&solvedac_option=xz%2Cxn&tier=6%2C7%2C8%2C9%2C10&algo=158&algo_if=and)
