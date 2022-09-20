@@ -321,6 +321,7 @@
 320. [곱셈](https://www.acmicpc.net/problem/2588)
 321. [나머지](https://www.acmicpc.net/problem/3052)
 322. [3의 배수](https://www.acmicpc.net/problem/1769)
+323. [단어 나누기](https://www.acmicpc.net/problem/1251)
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
