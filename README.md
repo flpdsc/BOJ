@@ -325,6 +325,7 @@
 324. [문자열 반복](https://www.acmicpc.net/problem/2675)
 325. [숫자의 합](https://www.acmicpc.net/problem/11720)
 326. [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+327. [팰린드롬](https://www.acmicpc.net/problem/8892)
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
