@@ -328,6 +328,7 @@
 327. [팰린드롬](https://www.acmicpc.net/problem/8892)
 328. [무한 문자열](https://www.acmicpc.net/problem/12871)
 329. [진짜 메시지](https://www.acmicpc.net/problem/9324)
+330. [이름 궁합](https://www.acmicpc.net/problem/15312)
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
