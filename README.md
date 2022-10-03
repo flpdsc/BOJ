@@ -330,7 +330,7 @@
 329. [진짜 메시지](https://www.acmicpc.net/problem/9324)
 330. [이름 궁합](https://www.acmicpc.net/problem/15312)
 331. [줄 세우기](https://www.acmicpc.net/problem/11536)
-
+332. [부분 문자열](https://www.acmicpc.net/problem/6550)
 
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
