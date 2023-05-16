@@ -337,6 +337,7 @@
 336. [귀걸이](https://www.acmicpc.net/problem/1380)
 337. [분수찾기](https://www.acmicpc.net/problem/1193)
 338. [색종이](https://www.acmicpc.net/problem/2563)
+339. [2차원 배열의 합](https://www.acmicpc.net/problem/2167)
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
