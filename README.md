@@ -339,6 +339,7 @@
 338. [색종이](https://www.acmicpc.net/problem/2563)
 339. [2차원 배열의 합](https://www.acmicpc.net/problem/2167)
 340. [서로 다른 부분 문자열의 개수](https://www.acmicpc.net/problem/11478)
+341. [누울 자리를 찾아라](https://www.acmicpc.net/problem/1652)
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
