@@ -7,15 +7,8 @@ int main()
     int a_1, a_0, c, n_0;
     cin >> a_1 >> a_0 >> c >> n_0;
 
-    for(int i=n_0; i<=100; ++i)
-    {
-        if(a_1*i+a_0 > c*i) 
-        {
-            cout << "0\n";
-            return 0;
-        }
-    }
-    cout << "1\n";
-
+    if(a_1*n_0+a_0<=c*n_0 && c>=a_1) cout << "1\n";
+    else cout << "0\n";
+    
     return 0;
 }
