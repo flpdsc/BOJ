@@ -345,6 +345,8 @@
 ========================================================
 344. [너의 평점은](https://www.acmicpc.net/problem/25206) 250204
 345. [스택 2](https://www.acmicpc.net/problem/28278) 250206
+346. [알고리즘 수업 - 점근적 표기 1](https://www.acmicpc.net/problem/24313) 250208
+
 ### 문제집
 * [단기간 성장](https://www.acmicpc.net/workbook/view/4349)
 * [BOJ 길라잡이 베타 (1)](https://www.acmicpc.net/workbook/view/2418)
